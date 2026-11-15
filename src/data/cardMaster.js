@@ -3488,5 +3488,1145 @@ export const CARD_MASTER = [
     "name": "キュアキッス",
     "series": "キミとアイドルプリキュア♪",
     "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000123103_e9fNPIk.jpg"
+  },
+  {
+    "id": "seal-1-01",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.01",
+    "rarity": "PR",
+    "name": "キュアブラック＆キュアホワイト",
+    "series": "ふたりはプリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000105983_LPsG244.jpg"
+  },
+  {
+    "id": "seal-1-02",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.02",
+    "rarity": "SR",
+    "name": "キュアブラック",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000105993_Qk1Dd1A.jpg"
+  },
+  {
+    "id": "seal-1-03",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.03",
+    "rarity": "SR",
+    "name": "キュアホワイト",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106003_7KzFY7x.jpg"
+  },
+  {
+    "id": "seal-1-04",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.04",
+    "rarity": "SR",
+    "name": "シャイニールミナス",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106013_yy4E5DN.jpg"
+  },
+  {
+    "id": "seal-1-05",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.05",
+    "rarity": "N",
+    "name": "メップル＆ミップル",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106023_CoQCstP.jpg"
+  },
+  {
+    "id": "seal-1-06",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.06",
+    "rarity": "N",
+    "name": "ポルン＆ルルン",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106033_2YQCVDb.jpg"
+  },
+  {
+    "id": "seal-1-07",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.07",
+    "rarity": "PR",
+    "name": "キュアブルーム＆キュアイーグレット",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106043_uwAHiCd.jpg"
+  },
+  {
+    "id": "seal-1-08",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.08",
+    "rarity": "SR",
+    "name": "キュアブライト",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106053_pbo9wFc.jpg"
+  },
+  {
+    "id": "seal-1-09",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.09",
+    "rarity": "SR",
+    "name": "キュアウィンディ",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106063_9AaFJot.jpg"
+  },
+  {
+    "id": "seal-1-10",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.10",
+    "rarity": "N",
+    "name": "フラッピ＆チョッピ",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106073_H14JU6V.jpg"
+  },
+  {
+    "id": "seal-1-11",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.11",
+    "rarity": "N",
+    "name": "満＆薫",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106083_yglQEUt.jpg"
+  },
+  {
+    "id": "seal-1-12",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.12",
+    "rarity": "SR",
+    "name": "キュアドリーム",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106093_92MJ8Lo.jpg"
+  },
+  {
+    "id": "seal-1-13",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.13",
+    "rarity": "R",
+    "name": "キュアルージュ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106103_v2l4zEy.jpg"
+  },
+  {
+    "id": "seal-1-14",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.14",
+    "rarity": "R",
+    "name": "キュアレモネード",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106113_dYEfkLq.jpg"
+  },
+  {
+    "id": "seal-1-15",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.15",
+    "rarity": "R",
+    "name": "キュアミント",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106123_w4KNilt.jpg"
+  },
+  {
+    "id": "seal-1-16",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.16",
+    "rarity": "R",
+    "name": "キュアアクア",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106133_6jzoDIh.jpg"
+  },
+  {
+    "id": "seal-1-17",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.17",
+    "rarity": "SR",
+    "name": "ミルキィローズ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106143_OWHstYL.jpg"
+  },
+  {
+    "id": "seal-1-18",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.18",
+    "rarity": "N",
+    "name": "のぞみ＆コージ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106153_uzN3pFM.jpg"
+  },
+  {
+    "id": "seal-1-19",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.19",
+    "rarity": "N",
+    "name": "ココ＆ナッツ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106163_NbkI8eO.jpg"
+  },
+  {
+    "id": "seal-1-20",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.20",
+    "rarity": "N",
+    "name": "ミルク＆シロップ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106173_bKgrhFq.jpg"
+  },
+  {
+    "id": "seal-1-21",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.21",
+    "rarity": "N",
+    "name": "かれん＆ミルク",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106183_KXJHesf.jpg"
+  },
+  {
+    "id": "seal-1-22",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.22",
+    "rarity": "N",
+    "name": "こまち＆夏",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106193_uGQMB7H.jpg"
+  },
+  {
+    "id": "seal-1-23",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.23",
+    "rarity": "N",
+    "name": "うらら＆シロー",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106203_vMZtYQh.jpg"
+  },
+  {
+    "id": "seal-1-24",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.24",
+    "rarity": "N",
+    "name": "りん＆くるみ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106213_ZqLETtM.jpg"
+  },
+  {
+    "id": "seal-1-25",
+    "category": "seal",
+    "release": "1弾",
+    "cardNo": "No.25",
+    "rarity": "SEC",
+    "name": "ブンビー",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000106223_XUOvLHD.jpg"
+  },
+  {
+    "id": "seal-2-01",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.01",
+    "rarity": "SR",
+    "name": "キュアドリーム",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114553_KBYIM8W.jpg"
+  },
+  {
+    "id": "seal-2-02",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.02",
+    "rarity": "R",
+    "name": "キュアルージュ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114563_HGT1n6C.jpg"
+  },
+  {
+    "id": "seal-2-03",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.03",
+    "rarity": "R",
+    "name": "キュアレモネード",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114573_DydkSrx.jpg"
+  },
+  {
+    "id": "seal-2-04",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.04",
+    "rarity": "R",
+    "name": "キュアミント",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114583_GTaZkyW.jpg"
+  },
+  {
+    "id": "seal-2-05",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.05",
+    "rarity": "R",
+    "name": "キュアアクア",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114593_rimLtY0.jpg"
+  },
+  {
+    "id": "seal-2-06",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.06",
+    "rarity": "SR",
+    "name": "ミルキィローズ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114603_DVVJgfM.jpg"
+  },
+  {
+    "id": "seal-2-07",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.07",
+    "rarity": "PR",
+    "name": "Yes！プリキュア５ GoGo！",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114613_FGMPI3N.jpg"
+  },
+  {
+    "id": "seal-2-08",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.08",
+    "rarity": "N",
+    "name": "フローラ＆シロップ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114623_QIBLLTW.jpg"
+  },
+  {
+    "id": "seal-2-09",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.09",
+    "rarity": "N",
+    "name": "コージ＆夏＆ミルク",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114633_zG7jUCV.jpg"
+  },
+  {
+    "id": "seal-2-10",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.10",
+    "rarity": "SR",
+    "name": "キュアピーチ",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114643_iOtO2PT.jpg"
+  },
+  {
+    "id": "seal-2-11",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.11",
+    "rarity": "R",
+    "name": "キュアベリー",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114653_kEEXrsl.jpg"
+  },
+  {
+    "id": "seal-2-12",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.12",
+    "rarity": "R",
+    "name": "キュアパイン",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114663_g96UKtd.jpg"
+  },
+  {
+    "id": "seal-2-13",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.13",
+    "rarity": "SR",
+    "name": "キュアパッション",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114673_8to4Ti9.jpg"
+  },
+  {
+    "id": "seal-2-14",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.14",
+    "rarity": "PR",
+    "name": "フレッシュプリキュア！",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114683_i9PEZtz.jpg"
+  },
+  {
+    "id": "seal-2-15",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.15",
+    "rarity": "N",
+    "name": "シフォン＆タルト",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114693_PSgBcaa.jpg"
+  },
+  {
+    "id": "seal-2-16",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.16",
+    "rarity": "N",
+    "name": "ウエスター＆サウラー",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114703_NBIbl6T.jpg"
+  },
+  {
+    "id": "seal-2-17",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.17",
+    "rarity": "N",
+    "name": "ノーザ＆イース",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114713_adbcYuw.jpg"
+  },
+  {
+    "id": "seal-2-18",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.18",
+    "rarity": "SR",
+    "name": "キュアブロッサム",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114723_xSlz6HN.jpg"
+  },
+  {
+    "id": "seal-2-19",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.19",
+    "rarity": "R",
+    "name": "キュアマリン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114733_GjsInS1.jpg"
+  },
+  {
+    "id": "seal-2-20",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.20",
+    "rarity": "R",
+    "name": "キュアサンシャイン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114743_cfm2f1S.jpg"
+  },
+  {
+    "id": "seal-2-21",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.21",
+    "rarity": "R",
+    "name": "キュアムーンライト",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114753_B968VAs.jpg"
+  },
+  {
+    "id": "seal-2-22",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.22",
+    "rarity": "PR",
+    "name": "ハートキャッチプリキュア！",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114763_R6BAsMC.jpg"
+  },
+  {
+    "id": "seal-2-23",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.23",
+    "rarity": "N",
+    "name": "シプレ＆コフレ＆ポプリ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114773_sWJbpsV.jpg"
+  },
+  {
+    "id": "seal-2-24",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.24",
+    "rarity": "N",
+    "name": "キュアフラワー",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114783_6R6Nm01.jpg"
+  },
+  {
+    "id": "seal-2-25",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.25",
+    "rarity": "N",
+    "name": "つぼみ＆シプレ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114793_2RQ86eh.jpg"
+  },
+  {
+    "id": "seal-2-26",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.26",
+    "rarity": "N",
+    "name": "えりか＆コフレ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114803_8yPG7dj.jpg"
+  },
+  {
+    "id": "seal-2-27",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.27",
+    "rarity": "N",
+    "name": "いつき＆ポプリ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114813_C5QcQzD.jpg"
+  },
+  {
+    "id": "seal-2-28",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.28",
+    "rarity": "N",
+    "name": "ゆり＆コロン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114823_DgiQoIy.jpg"
+  },
+  {
+    "id": "seal-2-29",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.29",
+    "rarity": "N",
+    "name": "謎の青年(イケメン)",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114833_ivDH5bC.jpg"
+  },
+  {
+    "id": "seal-2-30",
+    "category": "seal",
+    "release": "2弾",
+    "cardNo": "No.30",
+    "rarity": "SEC",
+    "name": "ダークプリキュア＆キュアムーンライト",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000114843_64pnRK5.jpg"
+  },
+  {
+    "id": "seal-3-01",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.01",
+    "rarity": "SR",
+    "name": "キュアメロディ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119093_zz761BI.jpg"
+  },
+  {
+    "id": "seal-3-02",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.02",
+    "rarity": "R",
+    "name": "キュアリズム",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119103_yfSIloL.jpg"
+  },
+  {
+    "id": "seal-3-03",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.03",
+    "rarity": "R",
+    "name": "キュアビート",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119113_aGZ6vkg.jpg"
+  },
+  {
+    "id": "seal-3-04",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.04",
+    "rarity": "SR",
+    "name": "キュアミューズ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119123_EtjOhzX.jpg"
+  },
+  {
+    "id": "seal-3-05",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.05",
+    "rarity": "PR",
+    "name": "スイートプリキュア♪",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119133_YpeB0zp.jpg"
+  },
+  {
+    "id": "seal-3-06",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.06",
+    "rarity": "N",
+    "name": "ハミィ＆セイレーン",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119143_vm4EYfz.jpg"
+  },
+  {
+    "id": "seal-3-07",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.07",
+    "rarity": "SR",
+    "name": "キュアハッピー",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119153_cQ0sB7q.jpg"
+  },
+  {
+    "id": "seal-3-08",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.08",
+    "rarity": "R",
+    "name": "キュアサニー",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119163_7cUn97c.jpg"
+  },
+  {
+    "id": "seal-3-09",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.09",
+    "rarity": "R",
+    "name": "キュアピース",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119173_BIGY9TT.jpg"
+  },
+  {
+    "id": "seal-3-10",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.10",
+    "rarity": "R",
+    "name": "キュアマーチ",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119183_eQO2Zh7.jpg"
+  },
+  {
+    "id": "seal-3-11",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.11",
+    "rarity": "R",
+    "name": "キュアビューティ",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119193_bIZ6rVH.jpg"
+  },
+  {
+    "id": "seal-3-12",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.12",
+    "rarity": "PR",
+    "name": "スマイルプリキュア！",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119203_Ic509J3.jpg"
+  },
+  {
+    "id": "seal-3-13",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.13",
+    "rarity": "N",
+    "name": "キャンディ＆ポップ",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119213_N1werS2.jpg"
+  },
+  {
+    "id": "seal-3-14",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.14",
+    "rarity": "N",
+    "name": "ジョーカー＆ウルフルン＆アカオーニ＆マジョリーナ",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119223_gTwcqVh.jpg"
+  },
+  {
+    "id": "seal-3-15",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.15",
+    "rarity": "N",
+    "name": "みゆき",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119233_7y8TH26.jpg"
+  },
+  {
+    "id": "seal-3-16",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.16",
+    "rarity": "N",
+    "name": "あかね",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119243_fK5QlEI.jpg"
+  },
+  {
+    "id": "seal-3-17",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.17",
+    "rarity": "N",
+    "name": "やよい",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119253_SziYdFM.jpg"
+  },
+  {
+    "id": "seal-3-18",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.18",
+    "rarity": "N",
+    "name": "なお",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119263_JJM3jvZ.jpg"
+  },
+  {
+    "id": "seal-3-19",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.19",
+    "rarity": "N",
+    "name": "れいか",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119273_4Vj7LaD.jpg"
+  },
+  {
+    "id": "seal-3-20",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.20",
+    "rarity": "SR",
+    "name": "キュアハート",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119283_FrifiB6.jpg"
+  },
+  {
+    "id": "seal-3-21",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.21",
+    "rarity": "R",
+    "name": "キュアダイヤモンド",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119293_nQN4Ej6.jpg"
+  },
+  {
+    "id": "seal-3-22",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.22",
+    "rarity": "R",
+    "name": "キュアロゼッタ",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119303_lUzA00n.jpg"
+  },
+  {
+    "id": "seal-3-23",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.23",
+    "rarity": "R",
+    "name": "キュアソード",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119313_v0LVaPO.jpg"
+  },
+  {
+    "id": "seal-3-24",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.24",
+    "rarity": "SR",
+    "name": "キュアエース",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119323_obLztfV.jpg"
+  },
+  {
+    "id": "seal-3-25",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.25",
+    "rarity": "PR",
+    "name": "ドキドキ！プリキュア",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119333_kAWD80P.jpg"
+  },
+  {
+    "id": "seal-3-26",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.26",
+    "rarity": "N",
+    "name": "アイちゃん＆シャルル＆ラケル＆ランス＆ダビィ",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119343_uKOrHP2.jpg"
+  },
+  {
+    "id": "seal-3-27",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.27",
+    "rarity": "N",
+    "name": "レジーナ",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119353_MWYQOZs.jpg"
+  },
+  {
+    "id": "seal-3-28",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.28",
+    "rarity": "N",
+    "name": "イーラ＆マーモ＆ベール",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119363_64lKXNH.jpg"
+  },
+  {
+    "id": "seal-3-29",
+    "category": "seal",
+    "release": "3弾",
+    "cardNo": "No.29",
+    "rarity": "SEC",
+    "name": "バッドエンドプリキュア",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000119373_vbX9wiC.jpg"
+  },
+  {
+    "id": "seal-4-01",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.01",
+    "rarity": "SR",
+    "name": "キュアラブリー",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126843_FlMJTgO.jpg"
+  },
+  {
+    "id": "seal-4-02",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.02",
+    "rarity": "R",
+    "name": "キュアプリンセス",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126853_LeP4NB3.jpg"
+  },
+  {
+    "id": "seal-4-03",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.03",
+    "rarity": "R",
+    "name": "キュアハニー",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126863_OOR79KR.jpg"
+  },
+  {
+    "id": "seal-4-04",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.04",
+    "rarity": "SR",
+    "name": "キュアフォーチュン",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126873_OeS0CC9.jpg"
+  },
+  {
+    "id": "seal-4-05",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.05",
+    "rarity": "PR",
+    "name": "ハピネスチャージプリキュア！",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126883_g8CPWTQ.jpg"
+  },
+  {
+    "id": "seal-4-06",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.06",
+    "rarity": "N",
+    "name": "リボン＆ぐらさん",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126893_e20i8pg.jpg"
+  },
+  {
+    "id": "seal-4-07",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.07",
+    "rarity": "N",
+    "name": "ファントム",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126903_G18YY6j.jpg"
+  },
+  {
+    "id": "seal-4-08",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.08",
+    "rarity": "SR",
+    "name": "キュアフローラ",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126913_yfSGSua.jpg"
+  },
+  {
+    "id": "seal-4-09",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.09",
+    "rarity": "R",
+    "name": "キュアマーメイド",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126923_kmqwcf5.jpg"
+  },
+  {
+    "id": "seal-4-10",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.10",
+    "rarity": "R",
+    "name": "キュアトゥインクル",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126933_L0MOL85.jpg"
+  },
+  {
+    "id": "seal-4-11",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.11",
+    "rarity": "SR",
+    "name": "キュアスカーレット",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126943_3obK9SY.jpg"
+  },
+  {
+    "id": "seal-4-12",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.12",
+    "rarity": "PR",
+    "name": "Go！プリンセスプリキュア",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126953_KwXyJXL.jpg"
+  },
+  {
+    "id": "seal-4-13",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.13",
+    "rarity": "N",
+    "name": "パフ＆アロマ",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126963_WE7HDaB.jpg"
+  },
+  {
+    "id": "seal-4-14",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.14",
+    "rarity": "N",
+    "name": "ミス・シャムール＆クロロ",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126973_5W9mohX.jpg"
+  },
+  {
+    "id": "seal-4-15",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.15",
+    "rarity": "N",
+    "name": "クローズ",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126983_Gbe3Rys.jpg"
+  },
+  {
+    "id": "seal-4-16",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.16",
+    "rarity": "SR",
+    "name": "キュアミラクル",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000126993_1iQ9uE5.jpg"
+  },
+  {
+    "id": "seal-4-17",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.17",
+    "rarity": "R",
+    "name": "キュアマジカル",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127003_TZFESpd.jpg"
+  },
+  {
+    "id": "seal-4-18",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.18",
+    "rarity": "SR",
+    "name": "キュアフェリーチェ",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127013_qVXkz7b.jpg"
+  },
+  {
+    "id": "seal-4-19",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.19",
+    "rarity": "PR",
+    "name": "魔法つかいプリキュア！",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127023_cZ1c5sU.jpg"
+  },
+  {
+    "id": "seal-4-20",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.20",
+    "rarity": "N",
+    "name": "みらい",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127033_gNNBYJ8.jpg"
+  },
+  {
+    "id": "seal-4-21",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.21",
+    "rarity": "N",
+    "name": "リコ",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127043_sHxUaWM.jpg"
+  },
+  {
+    "id": "seal-4-22",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.22",
+    "rarity": "N",
+    "name": "はーちゃん",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127053_j4YYb0B.jpg"
+  },
+  {
+    "id": "seal-4-23",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.23",
+    "rarity": "N",
+    "name": "モフルン",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127063_vT7e8Z8.jpg"
+  },
+  {
+    "id": "seal-4-24",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.24",
+    "rarity": "N",
+    "name": "オルーバ",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127073_KOlOtHM.jpg"
+  },
+  {
+    "id": "seal-4-25",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.25",
+    "rarity": "5th",
+    "name": "キュアブラック",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127083_zhvoD6E.jpg"
+  },
+  {
+    "id": "seal-4-26",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.26",
+    "rarity": "5th",
+    "name": "キュアホワイト",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127093_9ZdIsce.jpg"
+  },
+  {
+    "id": "seal-4-27",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.27",
+    "rarity": "5th",
+    "name": "シャイニールミナス",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127103_ozaTkoh.jpg"
+  },
+  {
+    "id": "seal-4-28",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.28",
+    "rarity": "5th",
+    "name": "キュアブルーム",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127113_AmtcfRn.jpg"
+  },
+  {
+    "id": "seal-4-29",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.29",
+    "rarity": "5th",
+    "name": "キュアイーグレット",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": ""
+  },
+  {
+    "id": "seal-4-30",
+    "category": "seal",
+    "release": "4弾",
+    "cardNo": "No.30",
+    "rarity": "SEC",
+    "name": "トワイライト",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127133_XE31rvs.jpg"
   }
 ];
