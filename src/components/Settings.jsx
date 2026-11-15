@@ -1,0 +1,9 @@
+import {useState} from 'react';
+import {uploadBackup,downloadBackup} from '../cloud/cloudflareBackup';
+export default function Settings({states,onRestore}){const[message,setMessage]=useState('');const[busy,setBusy]=useState(false);
+function payload(){return {version:2,updatedAt:new Date().toISOString(),cardStates:Object.values(states)}}
+function exportJson(){const blob=new Blob([JSON.stringify(payload(),null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='precure-card-backup.json';a.click();URL.revokeObjectURL(a.href)}
+function importJson(e){const f=e.target.files?.[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const data=JSON.parse(r.result);onRestore(data.cardStates||[])}catch{setMessage('JSONファイルを読み込めませんでした')}};r.readAsText(f)}
+async function cloudSave(){setBusy(true);setMessage('');try{const r=await uploadBackup(payload());setMessage(`Cloudflareへ保存しました: ${r.updatedAt||''}`)}catch(e){setMessage(e.message)}finally{setBusy(false)}}
+async function cloudLoad(){setBusy(true);setMessage('');try{const data=await downloadBackup();await onRestore(data.cardStates||[]);setMessage('Cloudflareから復元しました')}catch(e){setMessage(e.message)}finally{setBusy(false)}}
+return <section className="settings"><h2>設定</h2><div className="panel"><h3>Cloudflareバックアップ</h3><button disabled={busy} onClick={cloudSave}>Cloudflareへ保存</button><button disabled={busy} onClick={cloudLoad}>Cloudflareから復元</button>{message&&<p className="syncMessage" aria-live="polite">{message}</p>}</div><div className="panel"><h3>ローカルバックアップ</h3><button onClick={exportJson}>JSONをエクスポート</button><label className="fileButton">JSONから復元<input hidden type="file" accept="application/json" onChange={importJson}/></label></div><div className="panel"><h3>保存設計</h3><p>端末内: IndexedDB</p><p>クラウド: Cloudflare Worker + R2</p><p>公開: GitHub + Cloudflare Pages</p></div></section>}

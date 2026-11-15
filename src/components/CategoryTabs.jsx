@@ -1,0 +1,1 @@
+export default function CategoryTabs({categories,value,onChange}){return <div className="tabs">{categories.map(c=><button key={c.id} className={value===c.id?'active':''} onClick={()=>onChange(c.id)}>{c.short}</button>)}</div>}

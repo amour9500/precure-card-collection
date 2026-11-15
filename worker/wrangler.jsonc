@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "precure-card-backup-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-15",
+  "r2_buckets": [
+    {"binding": "BACKUP_BUCKET", "bucket_name": "precure-card-backups"}
+  ]
+}

@@ -1,0 +1,3 @@
+export default function ReleaseProgress({groups,page,pageCount,onPage}){
+  return <section className="releaseProgress"><div className="sectionTitle"><h2>排出弾ごとの収集率</h2><span>{page+1} / {pageCount}ページ</span></div><div className="releaseGrid">{groups.map(g=><div className="releaseItem" key={g.release}><div><b>{g.release}</b><span>{g.owned} / {g.total}種類</span></div><div className="progressTrack"><i style={{width:`${g.rate}%`}}/></div><strong>{g.rate.toFixed(1)}%</strong></div>)}</div>{pageCount>1&&<div className="pager"><button disabled={page===0} onClick={()=>onPage(page-1)}>← 前の6弾</button><span>{page+1} / {pageCount}</span><button disabled={page>=pageCount-1} onClick={()=>onPage(page+1)}>次の6弾 →</button></div>}</section>
+}
