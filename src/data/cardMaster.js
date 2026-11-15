@@ -4617,7 +4617,7 @@ export const CARD_MASTER = [
     "rarity": "5th",
     "name": "キュアイーグレット",
     "series": "ふたりはプリキュア Splash☆Star",
-    "imageUrl": ""
+    "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000127123_4enwD8M.jpg"
   },
   {
     "id": "seal-4-30",
