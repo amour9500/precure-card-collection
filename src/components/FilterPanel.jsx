@@ -1,1 +1,14 @@
-export default function FilterPanel({filters,setFilters,options}){const set=(key,value)=>setFilters(v=>({...v,[key]:value}));return <section className="filters"><input type="search" value={filters.query} onChange={e=>set('query',e.target.value)} placeholder="カード名・番号・シリーズを検索"/><div className="filterRow"><select value={filters.release} onChange={e=>set('release',e.target.value)}><option value="">すべての排出弾</option>{options.releases.map(x=><option key={x}>{x}</option>)}</select><select value={filters.rarity} onChange={e=>set('rarity',e.target.value)}><option value="">すべてのレアリティ</option>{options.rarities.map(x=><option key={x}>{x}</option>)}</select></div><select value={filters.series} onChange={e=>set('series',e.target.value)}><option value="">すべてのシリーズ</option>{options.series.map(x=><option key={x}>{x}</option>)}</select><div className="checks"><label><input type="checkbox" checked={filters.ownedOnly} onChange={e=>set('ownedOnly',e.target.checked)}/>所持のみ</label><label><input type="checkbox" checked={filters.unownedOnly} onChange={e=>set('unownedOnly',e.target.checked)}/>未所持のみ</label><label><input type="checkbox" checked={filters.favoriteOnly} onChange={e=>set('favoriteOnly',e.target.checked)}/>お気に入り</label></div></section>}
+export default function FilterPanel({filters,setFilters,options,supportsUnopened}){
+  const set=(key,value)=>setFilters(v=>({...v,[key]:value}));
+  return <section className="filters">
+    <input type="search" value={filters.query} onChange={e=>set('query',e.target.value)} placeholder="カード名・番号・シリーズを検索"/>
+    <div className="filterRow"><select value={filters.release} onChange={e=>set('release',e.target.value)}><option value="">すべての排出弾</option>{options.releases.map(x=><option key={x}>{x}</option>)}</select><select value={filters.rarity} onChange={e=>set('rarity',e.target.value)}><option value="">すべてのレアリティ</option>{options.rarities.map(x=><option key={x}>{x}</option>)}</select></div>
+    <select value={filters.series} onChange={e=>set('series',e.target.value)}><option value="">すべてのシリーズ</option>{options.series.map(x=><option key={x}>{x}</option>)}</select>
+    <div className="checks">
+      <label><input type="checkbox" checked={filters.ownedOnly} onChange={e=>set('ownedOnly',e.target.checked)}/>所持のみ</label>
+      <label><input type="checkbox" checked={filters.unownedOnly} onChange={e=>set('unownedOnly',e.target.checked)}/>未所持のみ</label>
+      {supportsUnopened&&<label title="未開封の所持枚数が0枚のカード"><input type="checkbox" checked={filters.noUnopenedOnly} onChange={e=>set('noUnopenedOnly',e.target.checked)}/>未開封を持っていない</label>}
+      <label><input type="checkbox" checked={filters.favoriteOnly} onChange={e=>set('favoriteOnly',e.target.checked)}/>お気に入り</label>
+    </div>
+  </section>;
+}
