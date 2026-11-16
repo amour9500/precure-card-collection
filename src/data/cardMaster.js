@@ -8822,7 +8822,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p01",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P01",
     "rarity": "なし",
     "name": "キュアフローラ",
@@ -8832,7 +8832,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p02",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P02",
     "rarity": "なし",
     "name": "キュアマーメイド",
@@ -8842,7 +8842,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p03",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P03",
     "rarity": "なし",
     "name": "キュアトゥインクル",
@@ -8852,7 +8852,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p04",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P04",
     "rarity": "なし",
     "name": "キュアフローラ(モードエレガント)",
@@ -8862,7 +8862,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p05",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P05",
     "rarity": "なし",
     "name": "キュアマーメイド(モードエレガント)",
@@ -8872,7 +8872,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p06",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P06",
     "rarity": "なし",
     "name": "キュアトゥインクル(モードエレガント)",
@@ -8882,7 +8882,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p07",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P07",
     "rarity": "なし",
     "name": "春野はるか",
@@ -8892,7 +8892,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p08",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P08",
     "rarity": "なし",
     "name": "海藤みなみ",
@@ -8902,7 +8902,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p09",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P09",
     "rarity": "なし",
     "name": "天ノ川きらら",
@@ -8912,7 +8912,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p10",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P10",
     "rarity": "なし",
     "name": "春野はるか(制服)",
@@ -8922,7 +8922,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p11",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P11",
     "rarity": "なし",
     "name": "海藤みなみ(制服)",
@@ -8932,7 +8932,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p12",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P12",
     "rarity": "なし",
     "name": "天ノ川きらら(制服)",
@@ -8942,7 +8942,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p13",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P13",
     "rarity": "なし",
     "name": "パフ＆アロマ",
@@ -8952,7 +8952,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p14",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P14",
     "rarity": "なし",
     "name": "Go！プリンセスプリキュア集合①",
@@ -8962,7 +8962,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p15",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P15",
     "rarity": "なし",
     "name": "Go！プリンセスプリキュア集合②",
@@ -8972,7 +8972,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p16",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P16",
     "rarity": "なし",
     "name": "春野はるか＆天ノ川きらら(バレンタイン)",
@@ -8982,7 +8982,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p17",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P17",
     "rarity": "なし",
     "name": "春野はるか＆海藤みなみ＆天ノ川きらら(ひなまつり)",
@@ -8992,7 +8992,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p18",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P18",
     "rarity": "なし",
     "name": "春野はるか＆海藤みなみ(夏祭り)",
@@ -9002,7 +9002,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p19",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P19",
     "rarity": "なし",
     "name": "海藤みなみ＆天ノ川きらら(ハロウィン)",
@@ -9012,7 +9012,7 @@ export const CARD_MASTER = [
   {
     "id": "gummy-25-p20",
     "category": "gummy",
-    "release": "Go！プリンセスプリキュア キラキラカードグミ",
+    "release": "Go！プリンセスプリキュア プリティカードグミ",
     "cardNo": "P20",
     "rarity": "なし",
     "name": "春野はるか＆海藤みなみ＆天ノ川きらら(クリスマス)",
