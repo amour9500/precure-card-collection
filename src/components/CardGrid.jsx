@@ -1,5 +1,5 @@
 function getCounts(card, state) {
-  if (card.category === 'gummy') {
+  if (['gummy', 'sikishi'].includes(card.category)) {
     const total = Number(state.ownedCount ?? (state.owned ? 1 : 0));
     return { total, label: `所持 ${total}枚` };
   }

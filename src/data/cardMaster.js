@@ -12588,5 +12588,1775 @@ export const CARD_MASTER = [
     "name": "キュアブラック＆キュアホワイト＆シャイニールミナス",
     "series": "ふたりはプリキュア Max Heart",
     "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800562.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-01",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.01",
+    "rarity": "箔押し",
+    "name": "キュアグレース",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008334.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-02",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.02",
+    "rarity": "ノーマル",
+    "name": "キュアフォンテーヌ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008335.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-03",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.03",
+    "rarity": "ノーマル",
+    "name": "キュアスパークル",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008336.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-04",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.04",
+    "rarity": "箔押し",
+    "name": "ヒーリングっど♡プリキュア",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008337.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-05",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.05",
+    "rarity": "ノーマル",
+    "name": "キュアスター",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008338.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-06",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.06",
+    "rarity": "ノーマル",
+    "name": "キュアコスモ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008339.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-07",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.07",
+    "rarity": "ノーマル",
+    "name": "キュアエール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008340.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-08",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.08",
+    "rarity": "ノーマル",
+    "name": "キュアマシェリ",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008341.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-09",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.09",
+    "rarity": "ノーマル",
+    "name": "キュアアムール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008342.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-10",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.10",
+    "rarity": "ノーマル",
+    "name": "キュアミラクル",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008343.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-11",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.11",
+    "rarity": "ノーマル",
+    "name": "キュアハート",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008344.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-12",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.12",
+    "rarity": "ノーマル",
+    "name": "キュアハッピー",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008345.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-13",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.13",
+    "rarity": "ノーマル",
+    "name": "キュアブロッサム",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008346.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-14",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.14",
+    "rarity": "ノーマル",
+    "name": "キュアドリーム",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008347.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-15",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.15",
+    "rarity": "箔押し",
+    "name": "キュアブラック",
+    "series": "ふたりはプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008348.jpg.webp"
+  },
+  {
+    "id": "sikishi-01-16",
+    "category": "sikishi",
+    "release": "1弾",
+    "cardNo": "No.16",
+    "rarity": "箔押し",
+    "name": "キュアホワイト",
+    "series": "ふたりはプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008349.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-01",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.01",
+    "rarity": "箔押し",
+    "name": "キュアグレース＆ラテ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008595.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-02",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.02",
+    "rarity": "ノーマル",
+    "name": "キュアフォンテーヌ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008596.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-03",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.03",
+    "rarity": "ノーマル",
+    "name": "キュアスパークル",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008597.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-04",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.04",
+    "rarity": "箔押し",
+    "name": "キュアアース",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008598.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-05",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.05",
+    "rarity": "ノーマル",
+    "name": "キュアミルキー",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008599.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-06",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.06",
+    "rarity": "ノーマル",
+    "name": "キュアソレイユ＆キュアセレーネ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008600.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-07",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.07",
+    "rarity": "ノーマル",
+    "name": "キュアアンジュ＆キュアエトワール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008601.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-08",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.08",
+    "rarity": "ノーマル",
+    "name": "キュアホイップ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008602.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-09",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.09",
+    "rarity": "ノーマル",
+    "name": "キュアパルフェ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008603.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-10",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.10",
+    "rarity": "ノーマル",
+    "name": "キュアフローラ",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008604.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-11",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.11",
+    "rarity": "ノーマル",
+    "name": "キュアスカーレット",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008605.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-12",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.12",
+    "rarity": "ノーマル",
+    "name": "キュアピーチ",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008606.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-13",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.13",
+    "rarity": "ノーマル",
+    "name": "キュアパッション",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008607.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-14",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.14",
+    "rarity": "箔押し",
+    "name": "キュアブラック",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008608.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-15",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.15",
+    "rarity": "箔押し",
+    "name": "キュアホワイト",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008609.jpg.webp"
+  },
+  {
+    "id": "sikishi-02-16",
+    "category": "sikishi",
+    "release": "2弾",
+    "cardNo": "No.16",
+    "rarity": "ノーマル",
+    "name": "シャイニールミナス",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008610.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-01",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.01",
+    "rarity": "箔押し",
+    "name": "キュアグレース(スペシャルヒーリングっどスタイル)",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008896.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-02",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.02",
+    "rarity": "ノーマル",
+    "name": "キュアフォンテーヌ＆キュアスパークル",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008897.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-03",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.03",
+    "rarity": "ノーマル",
+    "name": "キュアアース",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008898.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-04",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.04",
+    "rarity": "箔押し",
+    "name": "キュアマカロン＆キュアショコラ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008899.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-05",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.05",
+    "rarity": "ノーマル",
+    "name": "キュアマジカル",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008900.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-06",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.06",
+    "rarity": "ノーマル",
+    "name": "キュアマーメイド＆キュアトゥインクル",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008901.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-07",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.07",
+    "rarity": "ノーマル",
+    "name": "キュアラブリー",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008902.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-08",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.08",
+    "rarity": "ノーマル",
+    "name": "キュアエース",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008903.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-09",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.09",
+    "rarity": "ノーマル",
+    "name": "キュアメロディ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008904.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-10",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.10",
+    "rarity": "ノーマル",
+    "name": "キュアマリン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008905.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-11",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.11",
+    "rarity": "ノーマル",
+    "name": "キュアドリーム",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008906.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-12",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.12",
+    "rarity": "ノーマル",
+    "name": "キュアルージュ＆キュアレモネード",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008907.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-13",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.13",
+    "rarity": "ノーマル",
+    "name": "キュアミント＆キュアアクア",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008908.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-14",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.14",
+    "rarity": "箔押し",
+    "name": "ミルキィローズ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008909.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-15",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.15",
+    "rarity": "ノーマル",
+    "name": "キュアブルーム",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008910.jpg.webp"
+  },
+  {
+    "id": "sikishi-03-16",
+    "category": "sikishi",
+    "release": "3弾",
+    "cardNo": "No.16",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(グレース・スター・エール)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669008911.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-01",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.01",
+    "rarity": "ノーマル",
+    "name": "キュアサマー",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009310.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-02",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.02",
+    "rarity": "ノーマル",
+    "name": "キュアコーラル",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009311.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-03",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.03",
+    "rarity": "ノーマル",
+    "name": "キュアパパイア",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009312.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-04",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.04",
+    "rarity": "ノーマル",
+    "name": "キュアフラミンゴ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009313.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-05",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.05",
+    "rarity": "ノーマル",
+    "name": "マーメイドローラ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009314.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-06",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.06",
+    "rarity": "箔押し",
+    "name": "キュアフォンテーヌ＆キュアスパークル（スペシャルヒーリングっどスタイル）",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009315.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-07",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.07",
+    "rarity": "ノーマル",
+    "name": "キュアアース（スペシャルヒーリングっどスタイル）＆ラテ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009316.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-08",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.08",
+    "rarity": "ノーマル",
+    "name": "キュアフェリーチェ",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009317.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-09",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.09",
+    "rarity": "ノーマル",
+    "name": "キュアピース",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009318.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-10",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.10",
+    "rarity": "ノーマル",
+    "name": "キュアビート",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009319.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-11",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.11",
+    "rarity": "ノーマル",
+    "name": "キュアサンシャイン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009320.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-12",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.12",
+    "rarity": "ノーマル",
+    "name": "キュアパイン＆キュアベリー",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009321.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-13",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.13",
+    "rarity": "ノーマル",
+    "name": "キュアイーグレット",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009322.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-14",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.14",
+    "rarity": "箔押し",
+    "name": "キュアサマー＆ローラ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009323.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-15",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.15",
+    "rarity": "箔押し",
+    "name": "トロピカル～ジュ！プリキュア",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009324.jpg.webp"
+  },
+  {
+    "id": "sikishi-04-16",
+    "category": "sikishi",
+    "release": "4弾",
+    "cardNo": "No.16",
+    "rarity": "箔押し",
+    "name": "キュアグレース＆キュアドリーム(ドリームキュアグレース)",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009325.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-01",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.01",
+    "rarity": "ノーマル",
+    "name": "くるるん with キュアサマー",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009836.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-02",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.02",
+    "rarity": "ノーマル",
+    "name": "キュアコーラル",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009837.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-03",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.03",
+    "rarity": "ノーマル",
+    "name": "キュアパパイア",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009838.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-04",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.04",
+    "rarity": "ノーマル",
+    "name": "キュアフラミンゴ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009839.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-05",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.05",
+    "rarity": "箔押し",
+    "name": "キュアラメール",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009840.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-06",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.06",
+    "rarity": "箔押し",
+    "name": "フワ＆プルンス with キュアスター＆キュアミルキー(トゥインクルスタイル)",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009841.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-07",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.07",
+    "rarity": "箔押し",
+    "name": "はぐたん＆ハリハム・ハリー with キュアエール(マザーハートスタイル)",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009842.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-08",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.08",
+    "rarity": "ノーマル",
+    "name": "キュアカスタード＆キュアジェラート",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009843.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-09",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.09",
+    "rarity": "箔押し",
+    "name": "モフルン with 魔法つかいプリキュア！",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009844.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-10",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.10",
+    "rarity": "ノーマル",
+    "name": "キュアハニー＆キュアフォーチュン",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009845.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-11",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.11",
+    "rarity": "ノーマル",
+    "name": "キュアダイヤモンド＆キュアロゼッタ",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009846.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-12",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.12",
+    "rarity": "ノーマル",
+    "name": "キュアソード",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009847.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-13",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.13",
+    "rarity": "ノーマル",
+    "name": "キュアビューティ",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009848.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-14",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.14",
+    "rarity": "ノーマル",
+    "name": "キュアリズム",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009849.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-15",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.15",
+    "rarity": "ノーマル",
+    "name": "キュアミューズ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009850.jpg.webp"
+  },
+  {
+    "id": "sikishi-05-16",
+    "category": "sikishi",
+    "release": "5弾",
+    "cardNo": "No.16",
+    "rarity": "ノーマル",
+    "name": "キュアムーンライト",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009851.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-01",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.01",
+    "rarity": "箔押し",
+    "name": "キュアプレシャス",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010909.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-02",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.02",
+    "rarity": "ノーマル",
+    "name": "キュアスパイシー",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010910.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-03",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.03",
+    "rarity": "ノーマル",
+    "name": "キュアヤムヤム",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010911.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-04",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.04",
+    "rarity": "箔押し",
+    "name": "キュアサマー＆キュアラメール(エクセレントロピカルスタイル)",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010915.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-05",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.05",
+    "rarity": "ノーマル",
+    "name": "キュアコーラル(エクセレントロピカルスタイル)",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010916.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-06",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.06",
+    "rarity": "ノーマル",
+    "name": "キュアパパイア(エクセレントロピカルスタイル)",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010917.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-07",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.07",
+    "rarity": "ノーマル",
+    "name": "キュアフラミンゴ(エクセレントロピカルスタイル)",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010918.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-08",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.08",
+    "rarity": "箔押し",
+    "name": "ペコリン with キュアホイップ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010919.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-09",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.09",
+    "rarity": "箔押し",
+    "name": "パフ＆アロマ with キュアフローラ",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010920.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-10",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.10",
+    "rarity": "ノーマル",
+    "name": "キュアプリンセス",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010914.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-11",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.11",
+    "rarity": "ノーマル",
+    "name": "キュアサニー",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010912.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-12",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.12",
+    "rarity": "ノーマル",
+    "name": "キュアマーチ",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010913.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-13",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.13",
+    "rarity": "箔押し",
+    "name": "デリシャスパーティ♡プリキュア",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010921.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-14",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.14",
+    "rarity": "箔押し",
+    "name": "キュアハート＆マナ",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010908.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-15",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.15",
+    "rarity": "箔押し",
+    "name": "キュアブロッサム＆つぼみ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010907.jpg.webp"
+  },
+  {
+    "id": "sikishi-06-16",
+    "category": "sikishi",
+    "release": "6弾",
+    "cardNo": "No.16",
+    "rarity": "箔押し",
+    "name": "キュアドリーム＆のぞみ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010906.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-01",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.01",
+    "rarity": "箔押し",
+    "name": "キュアアイドル",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669020990.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-02",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.02",
+    "rarity": "箔押し",
+    "name": "キュアウインク",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669020991.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-03",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.03",
+    "rarity": "箔押し",
+    "name": "キュアキュンキュン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669020992.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-04",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.04",
+    "rarity": "箔押し",
+    "name": "キュアズキューン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669020993.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-05",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.05",
+    "rarity": "箔押し",
+    "name": "キュアキッス",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669020994.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-06",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.06",
+    "rarity": "ノーマル",
+    "name": "響カイト",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669020995.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-07",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.07",
+    "rarity": "箔押し",
+    "name": "キュアワンダフル",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669020996.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-08",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.08",
+    "rarity": "ノーマル",
+    "name": "キュアフレンディ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669020997.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-09",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.09",
+    "rarity": "ノーマル",
+    "name": "キュアニャミー",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669020998.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-10",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.10",
+    "rarity": "ノーマル",
+    "name": "キュアリリアン",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669020999.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-11",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.11",
+    "rarity": "ノーマル",
+    "name": "兎山悟＆兎山大福",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669021000.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-12",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.12",
+    "rarity": "箔押し",
+    "name": "キュアスカイ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669021001.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-13",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.13",
+    "rarity": "ノーマル",
+    "name": "キュアプリズム",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669021002.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-14",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.14",
+    "rarity": "ノーマル",
+    "name": "キュアウィング",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669021003.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-15",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.15",
+    "rarity": "ノーマル",
+    "name": "キュアバタフライ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669021004.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-16",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.16",
+    "rarity": "ノーマル",
+    "name": "キュアマジェスティ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669021005.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-17",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.17",
+    "rarity": "ノーマル",
+    "name": "キュアフィナーレ",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669021006.jpg.webp"
+  },
+  {
+    "id": "sikishi-07-18",
+    "category": "sikishi",
+    "release": "7弾",
+    "cardNo": "No.18",
+    "rarity": "ノーマル",
+    "name": "品田拓海",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669021007.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-01",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.01",
+    "rarity": "箔押し",
+    "name": "ひろがるスカイ！プリキュア",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013245.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-02",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.02",
+    "rarity": "箔押し",
+    "name": "ふたりはプリキュア",
+    "series": "ふたりはプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013246.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-03",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.03",
+    "rarity": "箔押し",
+    "name": "ふたりはプリキュア Splash☆Star",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013247.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-04",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.04",
+    "rarity": "箔押し",
+    "name": "Yes！プリキュア5",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013248.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-05",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.05",
+    "rarity": "箔押し",
+    "name": "ハートキャッチプリキュア！",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013249.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-06",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.06",
+    "rarity": "箔押し",
+    "name": "スイートプリキュア♪",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013250.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-07",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.07",
+    "rarity": "箔押し",
+    "name": "Go！プリンセスプリキュア",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013251.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-08",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.08",
+    "rarity": "箔押し",
+    "name": "魔法つかいプリキュア！",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013252.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-09",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.09",
+    "rarity": "箔押し",
+    "name": "スター☆トゥインクルプリキュア",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013253.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-10",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.10",
+    "rarity": "箔押し",
+    "name": "デリシャスパーティ♡プリキュア",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013254.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-11",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.11",
+    "rarity": "箔押し",
+    "name": "ふたりはプリキュア＆ひろがるスカイ！プリキュア",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013255.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-12",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.12",
+    "rarity": "箔押し",
+    "name": "イース＆セイレーン＆トワイライト＆ルールー＆ジェントルー",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013256.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-15",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.15",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(ピンク①)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013259.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-16",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.16",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(ピンク②)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013260.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-14",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.14",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(ブルー①)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013257.jpg.webp"
+  },
+  {
+    "id": "sikishi-08-13",
+    "category": "sikishi",
+    "release": "-20周年special-",
+    "cardNo": "No.13",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(ブルー②)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013258.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-01",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.01",
+    "rarity": "箔押し",
+    "name": "ひろがるスカイ！プリキュア",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013857.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-02",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.02",
+    "rarity": "箔押し",
+    "name": "ふたりはプリキュア Max Heart",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013858.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-03",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.03",
+    "rarity": "箔押し",
+    "name": "Yes！プリキュア5 GoGo！",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013859.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-04",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.04",
+    "rarity": "箔押し",
+    "name": "フレッシュプリキュア！",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013860.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-05",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.05",
+    "rarity": "箔押し",
+    "name": "スマイルプリキュア！",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013861.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-06",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.06",
+    "rarity": "箔押し",
+    "name": "ドキドキ！プリキュア",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013862.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-07",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.07",
+    "rarity": "箔押し",
+    "name": "ハピネスチャージプリキュア！",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013863.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-08",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.08",
+    "rarity": "箔押し",
+    "name": "キラキラ☆プリキュアアラモード",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013864.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-09",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.09",
+    "rarity": "箔押し",
+    "name": "HUGっと！プリキュア",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013865.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-10",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.10",
+    "rarity": "箔押し",
+    "name": "ヒーリングっど♡プリキュア",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013866.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-11",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.11",
+    "rarity": "箔押し",
+    "name": "トロピカル〜ジュ！プリキュア",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013867.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-12",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.12",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(イエロー①)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013868.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-13",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.13",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(イエロー②)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013869.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-14",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.14",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(レッド)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013870.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-15",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.15",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(グリーン＆ホワイト)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013871.jpg.webp"
+  },
+  {
+    "id": "sikishi-09-16",
+    "category": "sikishi",
+    "release": "-20周年special-2",
+    "cardNo": "No.16",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(パープル)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669013872.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-01",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.01",
+    "rarity": "箔押し",
+    "name": "ひろがるスカイ！プリキュア",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014464.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-02",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.02",
+    "rarity": "箔押し",
+    "name": "ひろがるスカイ！プリキュア(私服)",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014465.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-03",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.03",
+    "rarity": "箔押し",
+    "name": "ふたりはプリキュアMax Heart",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014466.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-04",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.04",
+    "rarity": "箔押し",
+    "name": "ふたりはプリキュアSplash☆Star",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014467.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-05",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.05",
+    "rarity": "箔押し",
+    "name": "Yes！プリキュア5 GoGo！",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014468.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-06",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.06",
+    "rarity": "箔押し",
+    "name": "HUGっと！プリキュア",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014469.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-07",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.07",
+    "rarity": "箔押し",
+    "name": "デリシャスパーティ♡プリキュア",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014470.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-08",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.08",
+    "rarity": "箔押し",
+    "name": "コージ＆夏＆シロー",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014471.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-09",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.09",
+    "rarity": "箔押し",
+    "name": "エターナル",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014472.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-10",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.10",
+    "rarity": "箔押し",
+    "name": "妖精オールスターズ①(初代〜スマイル)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014473.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-11",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.11",
+    "rarity": "箔押し",
+    "name": "妖精オールスターズ②(ドキドキ〜ひろがるスカイ)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014474.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-13",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.13",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(スカイ＆プレシャス＆サマー)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014476.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-14",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.14",
+    "rarity": "箔押し",
+    "name": "プレシャスオールスターズ(プリズム＆フィナーレ＆ラメール＆グレース)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014477.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-15",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.15",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(ウィング＆アンジュ＆フェリーチェ＆フローラ)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014478.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-16",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.16",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(バタフライ＆アース＆ミルキー＆マカロン)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014479.jpg.webp"
+  },
+  {
+    "id": "sikishi-10-12",
+    "category": "sikishi",
+    "release": "-20周年special-3",
+    "cardNo": "No.12",
+    "rarity": "箔押し",
+    "name": "プリキュアオールスターズ(マジェスティ＆フィナーレ＆ラメール)",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669014475.jpg.webp"
+  },
+  {
+    "id": "sikishi-11-01",
+    "category": "sikishi",
+    "release": "メモリアルセット",
+    "cardNo": "No.01",
+    "rarity": "メモリアル",
+    "name": "キュアグレース＆キュアスター＆キュアエール",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009922.jpg.webp"
+  },
+  {
+    "id": "sikishi-11-02",
+    "category": "sikishi",
+    "release": "メモリアルセット",
+    "cardNo": "No.02",
+    "rarity": "メモリアル",
+    "name": "ヒーリングっど♡プリキュア",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009919.jpg.webp"
+  },
+  {
+    "id": "sikishi-11-03",
+    "category": "sikishi",
+    "release": "メモリアルセット",
+    "cardNo": "No.03",
+    "rarity": "メモリアル",
+    "name": "スター☆トゥインクルプリキュア",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009920.jpg.webp"
+  },
+  {
+    "id": "sikishi-11-04",
+    "category": "sikishi",
+    "release": "メモリアルセット",
+    "cardNo": "No.04",
+    "rarity": "メモリアル",
+    "name": "HUGっと！プリキュア",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669009921.jpg.webp"
+  },
+  {
+    "id": "sikishi-12-01",
+    "category": "sikishi",
+    "release": "メモリアルセット -Second-",
+    "cardNo": "No.01",
+    "rarity": "メモリアル",
+    "name": "ヒーリングっど♡プリキュア＆Yes！プリキュア5GoGo！",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/pics_webp/boxart_a/669010569_1.jpg.webp?v=0cc80e32a8a34926190a"
+  },
+  {
+    "id": "sikishi-12-02",
+    "category": "sikishi",
+    "release": "メモリアルセット -Second-",
+    "cardNo": "No.02",
+    "rarity": "メモリアル",
+    "name": "ヒーリングっど♡プリキュア(パートナースタイル)",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010614.jpg.webp"
+  },
+  {
+    "id": "sikishi-12-03",
+    "category": "sikishi",
+    "release": "メモリアルセット -Second-",
+    "cardNo": "No.03",
+    "rarity": "メモリアル",
+    "name": "Yes！プリキュア5GoGo！",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010615.jpg.webp"
+  },
+  {
+    "id": "sikishi-12-04",
+    "category": "sikishi",
+    "release": "メモリアルセット -Second-",
+    "cardNo": "No.04",
+    "rarity": "メモリアル",
+    "name": "カグヤキュアグレース＆キュアドリーム",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669010616.jpg.webp"
+  },
+  {
+    "id": "sikishi-13-01",
+    "category": "sikishi",
+    "release": "メモリアルセット -映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪！-",
+    "cardNo": "No.01",
+    "rarity": "メモリアル",
+    "name": "トロピカル〜ジュ！プリキュア＆ハートキャッチプリキュア！",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669011393.jpg.webp"
+  },
+  {
+    "id": "sikishi-13-02",
+    "category": "sikishi",
+    "release": "メモリアルセット -映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪！-",
+    "cardNo": "No.02",
+    "rarity": "メモリアル",
+    "name": "トロピカル〜ジュプリキュア！(スノークリスタル・トロピカルスタイル)",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669011391.jpg.webp"
+  },
+  {
+    "id": "sikishi-13-03",
+    "category": "sikishi",
+    "release": "メモリアルセット -映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪！-",
+    "cardNo": "No.03",
+    "rarity": "メモリアル",
+    "name": "ハートキャッチプリキュア！",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669011392.jpg.webp"
+  },
+  {
+    "id": "sikishi-13-04",
+    "category": "sikishi",
+    "release": "メモリアルセット -映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪！-",
+    "cardNo": "No.04",
+    "rarity": "メモリアル",
+    "name": "キュアサマー＆キュアラメール＆キュアブロッサム＆キュアマリン",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/669011394.jpg.webp"
+  },
+  {
+    "id": "sikishi-14-01",
+    "category": "sikishi",
+    "release": "映画ヒーリングっど♡プリキュア ゆめのまちでキュン！っとGoGo！大変身！！ 入場者特典第二弾",
+    "cardNo": "No.01",
+    "rarity": "ノーマル",
+    "name": "キュアドリーム＆ラビリングレース",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/860022227.jpg.webp"
+  },
+  {
+    "id": "sikishi-14-02",
+    "category": "sikishi",
+    "release": "映画ヒーリングっど♡プリキュア ゆめのまちでキュン！っとGoGo！大変身！！ 入場者特典第二弾",
+    "cardNo": "No.02",
+    "rarity": "ノーマル",
+    "name": "キュアグレース＆キュアサマー",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/860022228.jpg.webp"
+  },
+  {
+    "id": "sikishi-14-03",
+    "category": "sikishi",
+    "release": "映画ヒーリングっど♡プリキュア ゆめのまちでキュン！っとGoGo！大変身！！ 入場者特典第二弾",
+    "cardNo": "No.03",
+    "rarity": "ノーマル",
+    "name": "花寺のどか＆ラビリン＆夢原のぞみ＆ココ",
+    "series": "プリキュアオールスターズ",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/860022229.jpg.webp"
   }
 ];
