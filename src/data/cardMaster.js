@@ -3214,7 +3214,7 @@ export const CARD_MASTER = [
     "category": "wafer",
     "release": "13弾",
     "cardNo": "No.02",
-    "rarity": "SR",
+    "rarity": "N",
     "name": "キュアミスティック",
     "series": "名探偵プリキュア！",
     "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000122833_37aqOgH.jpg"
