@@ -1794,7 +1794,7 @@ export const CARD_MASTER = [
     "category": "wafer",
     "release": "7弾",
     "cardNo": "No.19",
-    "rarity": "SR",
+    "rarity": "SSR",
     "name": "ひろがるスカイ！プリキュア",
     "series": "ひろがるスカイ！プリキュア",
     "imageUrl": "https://makeshop-multi-images.akamaized.net/fullshokugan/itemimages/0000000086493_fLp0eNp.jpg"
