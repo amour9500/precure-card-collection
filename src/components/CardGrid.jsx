@@ -1,5 +1,5 @@
 function getCounts(card, state) {
-  if (['gummy', 'sikishi'].includes(card.category)) {
+  if (['gummy', 'sikishi', 'clearcard'].includes(card.category)) {
     const total = Number(state.ownedCount ?? (state.owned ? 1 : 0));
     return { total, label: `所持 ${total}枚` };
   }
@@ -18,9 +18,7 @@ export default function CardGrid({ cards, states, onSelect }) {
       <div className="body">
         <div className="badges"><span>{card.rarity}</span><span>{card.cardNo}</span></div>
         <h3>{card.name}</h3><small>{card.release}<br/>{card.series}</small>
-        <div className={counts.total > 0 ? 'countDisplay ownedCount' : 'countDisplay'}>
-          <b>合計 {counts.total}枚</b><span>{counts.label}</span>
-        </div>
+        <div className={counts.total > 0 ? 'countDisplay ownedCount' : 'countDisplay'}><b>合計 {counts.total}枚</b><span>{counts.label}</span></div>
       </div>
     </article>;
   })}</div>;
