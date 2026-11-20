@@ -14358,5 +14358,4945 @@ export const CARD_MASTER = [
     "name": "花寺のどか＆ラビリン＆夢原のぞみ＆ココ",
     "series": "プリキュアオールスターズ",
     "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/860022229.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-01",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアアンサー",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935702.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-02",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアミスティック",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935703.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-03",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアエクレール",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935704.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-04",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアアルカナ",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935705.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-05",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアアンサー",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935706.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-06",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアミスティック",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935707.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-07",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアエクレール",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935708.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-08",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアアルカナ",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935709.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-09",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアアンサー",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935710.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-10",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアミスティック",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935711.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-11",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "キュアエクレール",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935712.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-12",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "キュアアルカナ",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935713.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-13",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "キュアアルカナ・シャドウ",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935714.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-14",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "明智あんな",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935715.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-15",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "小林みくる",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935716.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-16",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "帆羽くれあ",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935717.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-17",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "森亜るるか",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935718.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-18",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "ジェット先輩(ひとver.)",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935719.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-19",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "明智あんな",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935720.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-20",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "小林みくる",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935721.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-21",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "帆羽くれあ",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935722.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-22",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "森亜るるか",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935723.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-23",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "ジェット先輩(ひとver.)",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935724.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-24",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "来栖エリザ",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935725.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-25",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.25",
+    "rarity": "なし",
+    "name": "金田れい",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935726.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-26",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.26",
+    "rarity": "なし",
+    "name": "家入しるく",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935727.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-27",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.27",
+    "rarity": "なし",
+    "name": "ポチタン",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935728.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-28",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.28",
+    "rarity": "なし",
+    "name": "シュシュタン",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935729.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-29",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.29",
+    "rarity": "なし",
+    "name": "マシュタン",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935730.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-30",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.30",
+    "rarity": "なし",
+    "name": "ジェット先輩(妖精ver.)",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935731.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-31",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.31",
+    "rarity": "なし",
+    "name": "キュアアルカナ・シャドウ",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935732.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-32",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.32",
+    "rarity": "なし",
+    "name": "ニジー",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935733.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-33",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.33",
+    "rarity": "なし",
+    "name": "アゲセーヌ",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935734.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-34",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.34",
+    "rarity": "なし",
+    "name": "ゴウエモン",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935735.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-35",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.35",
+    "rarity": "なし",
+    "name": "キュアアンサー＆キュアミスティック",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935736.jpg.webp"
+  },
+  {
+    "id": "clearcard-01-no-36",
+    "category": "clearcard",
+    "release": "名探偵プリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.36",
+    "rarity": "なし",
+    "name": "キュアエクレール＆キュアアルカナ",
+    "series": "名探偵プリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu935737.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-01",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアアイドル アイドルハートリボンスタイル",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482305.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-02",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアウインク",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482306.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-03",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアキュンキュン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482307.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-04",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアズキューン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482308.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-05",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアキッス",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482309.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-06",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアアイドル",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482310.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-07",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアウインク",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482311.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-08",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアキュンキュン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482312.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-09",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアズキューン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482313.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-10",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアキッス",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482314.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-11",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "キュアアイドル",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482315.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-12",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "キュアウインク",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482316.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-13",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "キュアキュンキュン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482317.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-14",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "キュアズキューン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482318.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-15",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "キュアキッス",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482319.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-16",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "咲良うた",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482320.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-17",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "蒼風なな",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482321.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-18",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "紫雨こころ",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482322.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-19",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "プリルン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482323.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-20",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "メロロン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482324.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-21",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "咲良はもり＆きゅーたろう",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482325.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-22",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "田中",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482326.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-23",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "響カイト",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482327.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-24",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "咲良うた",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482328.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-25",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.25",
+    "rarity": "なし",
+    "name": "蒼風なな",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482329.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-26",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.26",
+    "rarity": "なし",
+    "name": "紫雨こころ",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482330.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-27",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.27",
+    "rarity": "なし",
+    "name": "プリルン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482331.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-28",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.28",
+    "rarity": "なし",
+    "name": "メロロン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482332.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-29",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.29",
+    "rarity": "なし",
+    "name": "タナカーン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482333.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-30",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.30",
+    "rarity": "なし",
+    "name": "響カイト",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482334.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-31",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.31",
+    "rarity": "なし",
+    "name": "キュアアイドル＆キュアウインク＆キュアキュンキュン",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482335.jpg.webp"
+  },
+  {
+    "id": "clearcard-02-no-32",
+    "category": "clearcard",
+    "release": "キミとアイドルプリキュア♪ クリアカードコレクションガム",
+    "cardNo": "No.32",
+    "rarity": "なし",
+    "name": "キュアズキューン＆キュアキッス",
+    "series": "キミとアイドルプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gu482336.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-01",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアワンダフル",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756511.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-02",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアフレンディ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756512.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-03",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアニャミー",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756513.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-04",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアリリアン",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756514.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-05",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアワンダフル",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756515.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-06",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアフレンディ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756516.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-07",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアニャミー",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756517.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-08",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアリリアン",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756518.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-09",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアワンダフル",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756519.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-10",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアフレンディ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756520.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-11",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "キュアニャミー",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756521.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-12",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "キュアリリアン",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756522.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-13",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "キュアワンダフル＆キュアフレンディ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756523.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-14",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "キュアニャミー＆キュアリリアン",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756524.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-15",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "犬飼こむぎ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756525.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-16",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "犬飼いろは",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756526.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-17",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "猫屋敷ユキ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756527.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-18",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "猫屋敷まゆ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756528.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-19",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "兎山悟",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756529.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-20",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "犬飼こむぎ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756530.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-21",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "犬飼いろは",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756531.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-22",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "猫屋敷ユキ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756532.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-23",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "猫屋敷まゆ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756533.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-24",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "兎山悟",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756534.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-25",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.25",
+    "rarity": "なし",
+    "name": "兎山大福",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756535.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-26",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.26",
+    "rarity": "なし",
+    "name": "こむぎ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756536.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-27",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.27",
+    "rarity": "なし",
+    "name": "ユキ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756537.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-28",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.28",
+    "rarity": "なし",
+    "name": "大福",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756538.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-29",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.29",
+    "rarity": "なし",
+    "name": "ニコ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756539.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-30",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.30",
+    "rarity": "なし",
+    "name": "兎山悟",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756540.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-31",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.31",
+    "rarity": "なし",
+    "name": "兎山大福",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756541.jpg.webp"
+  },
+  {
+    "id": "clearcard-03-no-32",
+    "category": "clearcard",
+    "release": "わんだふるぷりきゅあ！ クリアカードコレクションガム",
+    "cardNo": "No.32",
+    "rarity": "なし",
+    "name": "ナツキ",
+    "series": "わんだふるぷりきゅあ！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn756542.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-01",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアスカイ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286029.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-02",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアプリズム",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286030.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-03",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアウィング",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286031.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-04",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアバタフライ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286032.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-05",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアマジェスティ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286033.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-06",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアスカイ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286034.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-07",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアプリズム",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286035.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-08",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアウィング",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286036.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-09",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアバタフライ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286037.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-10",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアマジェスティ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286038.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-11",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "キュアスカイ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286039.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-12",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "キュアプリズム",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286040.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-13",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "キュアウィング",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286041.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-14",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "キュアバタフライ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286042.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-15",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "キュアマジェスティ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286043.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-16",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "ソラ・ハレワタール",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286044.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-17",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "虹ヶ丘ましろ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286045.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-18",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "夕凪ツバサ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286046.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-19",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "聖あげは",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286047.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-20",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "プリンセス・エル",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286048.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-21",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "ソラ・ハレワタール",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286049.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-22",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "虹ヶ丘ましろ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286050.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-23",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "ソラ・ハレワタール",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286051.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-24",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "虹ヶ丘ましろ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286052.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-25",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.25",
+    "rarity": "なし",
+    "name": "夕凪ツバサ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286053.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-26",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.26",
+    "rarity": "なし",
+    "name": "聖あげは",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286054.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-27",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.27",
+    "rarity": "なし",
+    "name": "プリンセス・エル",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286055.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-28",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.28",
+    "rarity": "なし",
+    "name": "虹ヶ丘ヨヨ",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286056.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-29",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.29",
+    "rarity": "なし",
+    "name": "シャララ隊長",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286057.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-30",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.30",
+    "rarity": "なし",
+    "name": "べリィベリー",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286058.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-31",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.31",
+    "rarity": "なし",
+    "name": "キュアスカイ＆キュアプリズム＆キュアウィング＆キュアバタフライ＆プリンセス・エル",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286059.jpg.webp"
+  },
+  {
+    "id": "clearcard-04-no-32",
+    "category": "clearcard",
+    "release": "ひろがるスカイ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.32",
+    "rarity": "なし",
+    "name": "キュアスカイ＆キュアプリズム＆キュアウィング＆キュアバタフライ＆プリンセス・エル",
+    "series": "ひろがるスカイ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gn286060.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-01",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアプレシャス",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648472.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-02",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアスパイシー",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648473.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-03",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアヤムヤム",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648474.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-04",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアフィナーレ",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648475.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-05",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアプレシャス",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648476.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-06",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアスパイシー",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648477.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-07",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアヤムヤム",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648478.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-08",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアフィナーレ",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648479.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-09",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアプレシャス",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648480.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-10",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアスパイシー",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648481.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-11",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "キュアヤムヤム",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648482.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-12",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "キュアフィナーレ",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648483.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-13",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "和実ゆい",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648484.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-14",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "芙羽ここね",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648485.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-15",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "華満らん",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648486.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-16",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "菓彩あまね",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648487.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-17",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "和実ゆい",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648488.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-18",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "芙羽ここね",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648489.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-19",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "華満らん",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648490.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-20",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "菓彩あまね",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648491.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-21",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "コメコメ＆パムパム＆メンメン",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648492.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-22",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "コメコメ",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648493.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-23",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "ブラックペッパー",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648494.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-24",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "ローズマリー",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648495.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-25",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.25",
+    "rarity": "なし",
+    "name": "品田拓海",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648496.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-26",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.26",
+    "rarity": "なし",
+    "name": "ジェントルー",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648497.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-27",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.27",
+    "rarity": "なし",
+    "name": "セクレトルー",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648498.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-28",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.28",
+    "rarity": "なし",
+    "name": "ナルシストルー",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648499.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-29",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.29",
+    "rarity": "なし",
+    "name": "キュアプレシャス＆キュアスパイシー＆キュアヤムヤム＆キュアフィナーレ",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648500.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-30",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.30",
+    "rarity": "なし",
+    "name": "キュアプレシャス＆キュアスパイシー＆キュアヤムヤム＆キュアフィナーレ",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648501.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-31",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.31",
+    "rarity": "なし",
+    "name": "キュアプレシャス＆キュアスパイシー＆キュアヤムヤム＆キュアフィナーレ",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648502.jpg.webp"
+  },
+  {
+    "id": "clearcard-05-no-32",
+    "category": "clearcard",
+    "release": "デリシャスパーティ♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.32",
+    "rarity": "なし",
+    "name": "和実ゆい＆芙羽ここね＆華満らん＆菓彩あまね",
+    "series": "デリシャスパーティ♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl648503.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-01",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアサマー",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131546.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-02",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアコーラル",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131547.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-03",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアパパイア",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131548.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-04",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアフラミンゴ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131549.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-05",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアラメール",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131550.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-06",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアサマー",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131551.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-07",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアコーラル",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131552.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-08",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアパパイア",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131553.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-09",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアフラミンゴ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131554.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-10",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアラメール",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131555.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-11",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "夏海まなつ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131556.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-12",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "涼風さんご",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131557.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-13",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "一之瀬みのり",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131558.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-14",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "滝沢あすか",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131559.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-15",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "ローラ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131560.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-16",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "夏海まなつ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131561.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-17",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "涼風さんご",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131562.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-18",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "一之瀬みのり",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131563.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-19",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "滝沢あすか",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131564.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-20",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "ローラ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131565.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-21",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "キュアサマー＆キュアコーラル",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131566.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-22",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "キュアパパイア＆キュアフラミンゴ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131567.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-23",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "シャロン＆キュアラメール",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131568.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-24",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "ローラ＆くるるん",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131569.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-25",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.25",
+    "rarity": "なし",
+    "name": "人魚の女王",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131570.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-26",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.26",
+    "rarity": "なし",
+    "name": "シャロン",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131571.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-27",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.27",
+    "rarity": "なし",
+    "name": "キュアブロッサム",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131572.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-28",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.28",
+    "rarity": "なし",
+    "name": "キュアマリン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131573.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-29",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.29",
+    "rarity": "なし",
+    "name": "キュアサンシャイン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131574.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-30",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.30",
+    "rarity": "なし",
+    "name": "キュアムーンライト",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131575.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-31",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.31",
+    "rarity": "なし",
+    "name": "シプレ＆コフレ＆ポプリ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131576.jpg.webp"
+  },
+  {
+    "id": "clearcard-06-no-32",
+    "category": "clearcard",
+    "release": "トロピカル～ジュ！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.32",
+    "rarity": "なし",
+    "name": "まなつ＆さんご＆みのり＆あすか＆ローラ",
+    "series": "トロピカル～ジュ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gl131577.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-01",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアグレース",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527003.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-02",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアフォンテーヌ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527004.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-03",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアスパークル",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527005.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-04",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアアース",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527006.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-05",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアグレース",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527007.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-06",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアフォンテーヌ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527008.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-07",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアスパークル",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527009.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-08",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアアース",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527010.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-09",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアグレース",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527011.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-10",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアフォンテーヌ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527012.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-11",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "キュアスパークル",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527013.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-12",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "キュアアース",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527014.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-13",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "花寺のどか",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527015.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-14",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "沢泉ちゆ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527016.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-15",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "平光ひなた",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527017.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-16",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "風鈴アスミ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527018.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-17",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "花寺のどか",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527019.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-18",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "沢泉ちゆ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527020.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-19",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "平光ひなた",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527021.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-20",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "風鈴アスミ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527022.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-21",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "花寺のどか",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527023.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-22",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "沢泉ちゆ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527024.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-23",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "平光ひなた",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527025.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-24",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "風鈴アスミ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527026.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-25",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.25",
+    "rarity": "なし",
+    "name": "ラビリン＆ラテ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527027.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-26",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.26",
+    "rarity": "なし",
+    "name": "ペギタン＆ニャトラン",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527028.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-27",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.27",
+    "rarity": "なし",
+    "name": "エレメントさん",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527029.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-28",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.28",
+    "rarity": "なし",
+    "name": "花寺やすこ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527030.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-29",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.29",
+    "rarity": "なし",
+    "name": "沢泉なお",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527031.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-30",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.30",
+    "rarity": "なし",
+    "name": "ダルイゼン",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527032.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-31",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.31",
+    "rarity": "なし",
+    "name": "シンドイーネ",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527033.jpg.webp"
+  },
+  {
+    "id": "clearcard-07-no-32",
+    "category": "clearcard",
+    "release": "ヒーリングっど♡プリキュア クリアカードコレクションガム",
+    "cardNo": "No.32",
+    "rarity": "なし",
+    "name": "グアイワル",
+    "series": "ヒーリングっど♡プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg527034.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-01",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアスター",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186484.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-02",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアミルキー",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186485.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-03",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアソレイユ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186486.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-04",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアセレーネ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186487.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-05",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアコスモ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186488.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-06",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアスター",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186489.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-07",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアミルキー",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186490.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-08",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアソレイユ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186491.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-09",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアセレーネ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186492.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-10",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアコスモ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186493.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-11",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "キュアスター",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186494.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-12",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "キュアミルキー",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186495.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-13",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "キュアソレイユ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186496.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-14",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "キュアセレーネ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186497.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-15",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "キュアコスモ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186498.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-16",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "星奈ひかる",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186499.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-17",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "羽衣ララ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186500.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-18",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "天宮えれな",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186501.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-19",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "香久矢まどか",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186502.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-20",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "ユニ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186503.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-21",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "星奈ひかる",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186504.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-22",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "羽衣ララ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186505.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-23",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "天宮えれな",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186506.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-24",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "香久矢まどか",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186507.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-25",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.25",
+    "rarity": "なし",
+    "name": "ユニ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186508.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-26",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.26",
+    "rarity": "なし",
+    "name": "ブルーキャット",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186509.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-27",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.27",
+    "rarity": "なし",
+    "name": "マオ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186510.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-28",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.28",
+    "rarity": "なし",
+    "name": "プルンス＆フワ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186511.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-29",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.29",
+    "rarity": "なし",
+    "name": "カッパード",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186512.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-30",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.30",
+    "rarity": "なし",
+    "name": "テンジョウ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186513.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-31",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.31",
+    "rarity": "なし",
+    "name": "アイワーン＆バケニャーン",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186514.jpg.webp"
+  },
+  {
+    "id": "clearcard-08-no-32",
+    "category": "clearcard",
+    "release": "スター☆トゥインクルプリキュア クリアカードコレクションガム",
+    "cardNo": "No.32",
+    "rarity": "なし",
+    "name": "ガルオウガ",
+    "series": "スター☆トゥインクルプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/gg186515.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-01",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアエール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774586.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-02",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアアンジュ",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774587.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-03",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアエトワール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774588.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-04",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアマシェリ",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774589.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-05",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアアムール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774590.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-06",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアエール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774591.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-07",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアアンジュ",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774592.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-08",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアエトワール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774593.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-09",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアマシェリ",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774594.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-10",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアアムール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774595.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-11",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "野乃はな",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774596.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-12",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "薬師寺さあや",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774597.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-13",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "輝木ほまれ",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774598.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-14",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "愛崎えみる",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774599.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-15",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "ルールー・アムール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774600.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-16",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "野乃はな",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774601.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-17",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "薬師寺さあや",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774602.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-18",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "輝木ほまれ",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774603.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-19",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "愛崎えみる",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774604.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-20",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "ルールー・アムール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774605.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-21",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "ハリハム・ハリー＆はぐたん",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774606.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-22",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "野乃はな",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774607.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-23",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "薬師寺さあや",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774608.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-24",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "輝木ほまれ",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774609.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-25",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.25",
+    "rarity": "なし",
+    "name": "愛崎えみる",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774610.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-26",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.26",
+    "rarity": "なし",
+    "name": "ルールー・アムール",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774611.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-27",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.27",
+    "rarity": "なし",
+    "name": "はぐたん",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774612.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-28",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.28",
+    "rarity": "なし",
+    "name": "ハリハム・ハリー",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774613.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-29",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.29",
+    "rarity": "なし",
+    "name": "ハリハム・ハリー＆はぐたん",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774614.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-30",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.30",
+    "rarity": "なし",
+    "name": "ハリハム・ハリー",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774615.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-31",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.31",
+    "rarity": "なし",
+    "name": "野乃ことり",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774616.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-32",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.32",
+    "rarity": "なし",
+    "name": "リストル",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774617.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-33",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.33",
+    "rarity": "なし",
+    "name": "ダイガン",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774618.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-34",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.34",
+    "rarity": "なし",
+    "name": "パップル",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774619.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-35",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.35",
+    "rarity": "なし",
+    "name": "チャラリート",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774620.jpg.webp"
+  },
+  {
+    "id": "clearcard-09-no-36",
+    "category": "clearcard",
+    "release": "HUGっと！プリキュア クリアカードコレクションガム",
+    "cardNo": "No.36",
+    "rarity": "なし",
+    "name": "ルールー",
+    "series": "HUGっと！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3774621.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-01",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアホイップ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642212.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-02",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアカスタード",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642213.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-03",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアジェラート",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642214.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-04",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアマカロン",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642215.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-05",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアショコラ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642216.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-06",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアパルフェ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642217.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-07",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアホイップ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642218.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-08",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアカスタード",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642219.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-09",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアジェラート",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642220.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-10",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアマカロン",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642221.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-11",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "キュアショコラ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642222.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-12",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "キュアパルフェ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642223.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-13",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "宇佐美いちか",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642224.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-14",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "有栖川ひまり",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642225.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-15",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "立神あおい",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642226.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-16",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "琴爪ゆかり",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642227.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-17",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "剣城あきら",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642228.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-18",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "キラ星シエル",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642229.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-19",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "キュアホイップ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642230.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-20",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "キュアカスタード",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642231.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-21",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "キュアジェラート",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642232.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-22",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "キュアマカロン",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642233.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-23",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "キュアショコラ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642234.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-24",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "キュアパルフェ",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642235.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-25",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.25",
+    "rarity": "なし",
+    "name": "宇佐美いちか",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642236.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-26",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.26",
+    "rarity": "なし",
+    "name": "有栖川ひまり",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642237.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-27",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.27",
+    "rarity": "なし",
+    "name": "立神あおい",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642238.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-28",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.28",
+    "rarity": "なし",
+    "name": "琴爪ゆかり",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642239.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-29",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.29",
+    "rarity": "なし",
+    "name": "剣城あきら",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642240.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-30",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.30",
+    "rarity": "なし",
+    "name": "キラ星シエル",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642241.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-31",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.31",
+    "rarity": "なし",
+    "name": "宇佐美いちか",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642242.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-32",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.32",
+    "rarity": "なし",
+    "name": "有栖川ひまり",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642243.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-33",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.33",
+    "rarity": "なし",
+    "name": "立神あおい",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642244.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-34",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.34",
+    "rarity": "なし",
+    "name": "琴爪ゆかり",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642245.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-35",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.35",
+    "rarity": "なし",
+    "name": "剣城あきら",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642246.jpg.webp"
+  },
+  {
+    "id": "clearcard-10-no-36",
+    "category": "clearcard",
+    "release": "キラキラ☆プリキュアアラモード クリアカードコレクションガム",
+    "cardNo": "No.36",
+    "rarity": "なし",
+    "name": "キラリン＆ペコリン",
+    "series": "キラキラ☆プリキュアアラモード",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3642247.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-001",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.001",
+    "rarity": "なし",
+    "name": "キュアブラック＆キュアホワイト",
+    "series": "ふたりはプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046660.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-002",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.002",
+    "rarity": "なし",
+    "name": "シャイニールミナス",
+    "series": "ふたりはプリキュア Max Heart",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046661.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-003",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.003",
+    "rarity": "なし",
+    "name": "キュアブルーム＆キュアイーグレット",
+    "series": "ふたりはプリキュア Splash☆Star",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046662.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-004",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.004",
+    "rarity": "なし",
+    "name": "キュアドリーム",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046663.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-005",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.005",
+    "rarity": "なし",
+    "name": "キュアルージュ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046664.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-006",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.006",
+    "rarity": "なし",
+    "name": "キュアレモネード",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046665.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-007",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.007",
+    "rarity": "なし",
+    "name": "キュアミント",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046666.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-008",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.008",
+    "rarity": "なし",
+    "name": "キュアアクア",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046667.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-009",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.009",
+    "rarity": "なし",
+    "name": "ミルキィローズ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046668.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-010",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.010",
+    "rarity": "なし",
+    "name": "キュアピーチ",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046669.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-011",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.011",
+    "rarity": "なし",
+    "name": "キュアベリー",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046670.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-012",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.012",
+    "rarity": "なし",
+    "name": "キュアパイン",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046671.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-013",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.013",
+    "rarity": "なし",
+    "name": "キュアパッション",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046672.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-014",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.014",
+    "rarity": "なし",
+    "name": "キュアブロッサム",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046673.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-015",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.015",
+    "rarity": "なし",
+    "name": "キュアマリン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046674.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-016",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.016",
+    "rarity": "なし",
+    "name": "キュアサンシャイン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046675.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-017",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.017",
+    "rarity": "なし",
+    "name": "キュアムーンライト",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046676.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-018",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.018",
+    "rarity": "なし",
+    "name": "キュアメロディ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046677.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-019",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.019",
+    "rarity": "なし",
+    "name": "キュアリズム",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046678.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-020",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.020",
+    "rarity": "なし",
+    "name": "キュアビート",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046679.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-021",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.021",
+    "rarity": "なし",
+    "name": "キュアミューズ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046680.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-022",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.022",
+    "rarity": "なし",
+    "name": "キュアハッピー",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046681.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-023",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.023",
+    "rarity": "なし",
+    "name": "キュアサニー",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046682.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-024",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.024",
+    "rarity": "なし",
+    "name": "キュアピース",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046683.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-025",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.025",
+    "rarity": "なし",
+    "name": "キュアマーチ",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046684.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-026",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.026",
+    "rarity": "なし",
+    "name": "キュアビューティ",
+    "series": "スマイルプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046685.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-027",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.027",
+    "rarity": "なし",
+    "name": "キュアハート",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046686.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-028",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.028",
+    "rarity": "なし",
+    "name": "キュアダイヤモンド",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046687.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-029",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.029",
+    "rarity": "なし",
+    "name": "キュアロゼッタ",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046688.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-030",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.030",
+    "rarity": "なし",
+    "name": "キュアソード",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046689.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-031",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.031",
+    "rarity": "なし",
+    "name": "キュアエース",
+    "series": "ドキドキ！プリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046690.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-032",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.032",
+    "rarity": "なし",
+    "name": "キュアラブリー",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046691.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-033",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.033",
+    "rarity": "なし",
+    "name": "キュアプリンセス",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046692.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-034",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.034",
+    "rarity": "なし",
+    "name": "キュアハニー",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046693.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-035",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.035",
+    "rarity": "なし",
+    "name": "キュアフォーチュン",
+    "series": "ハピネスチャージプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046694.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-036",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.036",
+    "rarity": "なし",
+    "name": "キュアフローラ",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046695.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-037",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.037",
+    "rarity": "なし",
+    "name": "キュアマーメイド",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046696.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-038",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.038",
+    "rarity": "なし",
+    "name": "キュアトゥインクル",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046697.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-039",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.039",
+    "rarity": "なし",
+    "name": "キュアスカーレット",
+    "series": "Go！プリンセスプリキュア",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046698.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-040",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.040",
+    "rarity": "なし",
+    "name": "キュアミラクル",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046699.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-no-041",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "No.041",
+    "rarity": "なし",
+    "name": "キュアマジカル",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046700.jpg.webp"
+  },
+  {
+    "id": "clearcard-11-ex",
+    "category": "clearcard",
+    "release": "魔法つかいプリキュア！ クリアカードコレクションガム",
+    "cardNo": "EX",
+    "rarity": "なし",
+    "name": "番組ティザービジュアル",
+    "series": "魔法つかいプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g3046701.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-01",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアメロディ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610338.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-02",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアリズム",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610339.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-03",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアメロディ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610340.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-04",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアリズム",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610341.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-05",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアメロディ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610342.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-06",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアリズム",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610343.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-07",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "北条響",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610344.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-08",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "南野奏",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610345.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-09",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "北条響",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610346.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-10",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "南野奏",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610347.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-11",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "北条響",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610348.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-12",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "南野奏",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610349.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-13",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "ハミィ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610350.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-14",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "キュアメロディ＆ハミィ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610351.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-15",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "キュアリズム＆ハミィ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610352.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-16",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "キュアメロディ＆キュアリズム",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610353.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-17",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "キュアメロディ＆キュアリズム",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610354.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-18",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "北条響＆南野奏",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610355.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-19",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "北条響＆南野奏",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610356.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-20",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "北条響＆南野奏",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610357.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-21",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "キュアメロディ",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610358.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-22",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "キュアリズム",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610359.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-23",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "スイートプリキュア♪",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610360.jpg.webp"
+  },
+  {
+    "id": "clearcard-12-no-24",
+    "category": "clearcard",
+    "release": "スイートプリキュア♪ プラカードガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "スイートプリキュア♪",
+    "series": "スイートプリキュア♪",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5802007.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-01",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアブロッサム",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801580.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-02",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアマリン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801581.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-03",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアブロッサム",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801582.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-04",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアマリン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801583.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-05",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアブロッサム",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801584.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-06",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアマリン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801585.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-07",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "花咲つぼみ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801586.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-08",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "来海えりか",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801587.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-09",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "花咲つぼみ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801588.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-10",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "来海えりか",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801589.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-11",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "花咲つぼみ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801590.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-12",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "来海えりか",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801591.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-13",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "シプレ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801592.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-14",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "コフレ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801593.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-15",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "花咲つぼみ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801594.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-16",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "キュアブロッサム",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801595.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-17",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "キュアマリン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801596.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-18",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "キュアブロッサム＆キュアマリン",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801597.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-19",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "花咲つぼみ＆来海えりか",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801598.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-20",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "花咲つぼみ＆来海えりか",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801599.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-21",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "花咲つぼみ＆来海えりか",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801600.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-22",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "キュアブロッサム＆シプレ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801601.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-23",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "キュアマリン＆コフレ",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801602.jpg.webp"
+  },
+  {
+    "id": "clearcard-13-no-24",
+    "category": "clearcard",
+    "release": "ハートキャッチプリキュア！ プラカードガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "ハートキャッチプリキュア！",
+    "series": "ハートキャッチプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801603.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-01",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアピーチ",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801261.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-02",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアベリー",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801262.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-03",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアパイン",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801263.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-04",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアピーチ",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801264.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-05",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアベリー",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801265.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-06",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "キュアパイン",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801266.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-07",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアピーチ",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801267.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-08",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアベリー",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801268.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-09",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアパイン",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801269.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-10",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "桃園ラブ",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801270.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-11",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "蒼乃美希",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801271.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-12",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "山吹祈里",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801272.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-13",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "桃園ラブ",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801273.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-14",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "蒼乃美希",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801274.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-15",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "山吹祈里",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801275.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-16",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "桃園ラブ",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801276.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-17",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "蒼乃美希",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801277.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-18",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "山吹祈里",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801278.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-19",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "イース",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801279.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-20",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "イース",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801280.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-21",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "ウェスター",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801281.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-22",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "サウラー",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801282.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-23",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "シフォン",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801283.jpg.webp"
+  },
+  {
+    "id": "clearcard-14-no-24",
+    "category": "clearcard",
+    "release": "フレッシュプリキュア！ プラカードガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "タルト",
+    "series": "フレッシュプリキュア！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801284.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-01",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.01",
+    "rarity": "なし",
+    "name": "キュアドリーム",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801020.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-02",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.02",
+    "rarity": "なし",
+    "name": "キュアルージュ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801021.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-03",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.03",
+    "rarity": "なし",
+    "name": "キュアレモネード",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801022.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-04",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.04",
+    "rarity": "なし",
+    "name": "キュアミント",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801023.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-05",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.05",
+    "rarity": "なし",
+    "name": "キュアアクア",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801024.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-06",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.06",
+    "rarity": "なし",
+    "name": "ミルキィローズ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801025.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-07",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.07",
+    "rarity": "なし",
+    "name": "キュアドリーム",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801026.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-08",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.08",
+    "rarity": "なし",
+    "name": "キュアルージュ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801027.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-09",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.09",
+    "rarity": "なし",
+    "name": "キュアレモネード",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801028.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-10",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.10",
+    "rarity": "なし",
+    "name": "キュアミント",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801029.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-11",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.11",
+    "rarity": "なし",
+    "name": "キュアアクア",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801030.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-12",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.12",
+    "rarity": "なし",
+    "name": "ミルキィローズ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801031.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-13",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.13",
+    "rarity": "なし",
+    "name": "ココ＆ナッツ＆ミルク＆シロップ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801032.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-14",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.14",
+    "rarity": "なし",
+    "name": "夢原のぞみ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801033.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-15",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.15",
+    "rarity": "なし",
+    "name": "夏木りん",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801034.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-16",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.16",
+    "rarity": "なし",
+    "name": "春日野うらら",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801035.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-17",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.17",
+    "rarity": "なし",
+    "name": "秋元こまち",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801036.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-18",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.18",
+    "rarity": "なし",
+    "name": "水無月かれん",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801037.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-19",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.19",
+    "rarity": "なし",
+    "name": "小々田コージ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801038.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-20",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.20",
+    "rarity": "なし",
+    "name": "夏",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801039.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-21",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.21",
+    "rarity": "なし",
+    "name": "美々野くるみ",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801040.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-22",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.22",
+    "rarity": "なし",
+    "name": "甘井シロー",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801041.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-23",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.23",
+    "rarity": "なし",
+    "name": "増子美香",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801042.jpg.webp"
+  },
+  {
+    "id": "clearcard-15-no-24",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ GoGo！ プラカードガム",
+    "cardNo": "No.24",
+    "rarity": "なし",
+    "name": "Yes！プリキュア５ GoGo！",
+    "series": "Yes！プリキュア５ GoGo！",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801043.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p01",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P01",
+    "rarity": "なし",
+    "name": "キュアドリーム",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800635.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p02",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P02",
+    "rarity": "なし",
+    "name": "キュアドリーム",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800636.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p03",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P03",
+    "rarity": "なし",
+    "name": "キュアドリーム",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800637.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p04",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P04",
+    "rarity": "なし",
+    "name": "キュアルージュ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800638.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p05",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P05",
+    "rarity": "なし",
+    "name": "キュアルージュ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800639.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p06",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P06",
+    "rarity": "なし",
+    "name": "キュアルージュ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800640.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p07",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P07",
+    "rarity": "なし",
+    "name": "キュアレモネード",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800641.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p08",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P08",
+    "rarity": "なし",
+    "name": "キュアレモネード",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800642.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p09",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P09",
+    "rarity": "なし",
+    "name": "キュアレモネード",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800643.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p10",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P10",
+    "rarity": "なし",
+    "name": "キュアミント",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800644.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p11",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P11",
+    "rarity": "なし",
+    "name": "キュアミント",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800645.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p12",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P12",
+    "rarity": "なし",
+    "name": "キュアミント",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800646.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p13",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P13",
+    "rarity": "なし",
+    "name": "キュアアクア",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800647.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p14",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P14",
+    "rarity": "なし",
+    "name": "キュアアクア",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800648.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p15",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P15",
+    "rarity": "なし",
+    "name": "キュアアクア",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800649.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p16",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P16",
+    "rarity": "なし",
+    "name": "キュアミント＆キュアルージュ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800650.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p17",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P17",
+    "rarity": "なし",
+    "name": "キュアドリーム＆ココ＆ナッツ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800651.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p18",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P18",
+    "rarity": "なし",
+    "name": "キュアレモネード＆キュアアクア",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800652.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p19",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P19",
+    "rarity": "なし",
+    "name": "夢原のぞみ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800653.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p20",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P20",
+    "rarity": "なし",
+    "name": "夏木りん",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800654.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p21",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P21",
+    "rarity": "なし",
+    "name": "春日野うらら",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800655.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p22",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P22",
+    "rarity": "なし",
+    "name": "秋元こまち",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800656.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p23",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P23",
+    "rarity": "なし",
+    "name": "水無月かれん",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800657.jpg.webp"
+  },
+  {
+    "id": "clearcard-16-p24",
+    "category": "clearcard",
+    "release": "Yes！プリキュア５ プラカードガム",
+    "cardNo": "P24",
+    "rarity": "なし",
+    "name": "ココ＆ナッツ",
+    "series": "Yes！プリキュア５",
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5800658.jpg.webp"
   }
 ];

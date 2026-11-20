@@ -5,7 +5,7 @@ import {CATEGORY_OPTIONS, SERIES_OPTIONS} from './data/categoryOptions';
 import {getAllCardStates,saveCardState,replaceAllCardStates} from './db/indexedDB';
 import CategoryTabs from './components/CategoryTabs';import Stats from './components/Stats';import FilterPanel from './components/FilterPanel';import CardGrid from './components/CardGrid';import CardDetail from './components/CardDetail';import Settings from './components/Settings';import ReleaseProgress from './components/ReleaseProgress';
 const initialFilters={query:'',release:'',rarity:'',series:'',ownedOnly:false,unownedOnly:false,favoriteOnly:false,noUnopenedOnly:false};
-const countFor=(card,state={})=>['gummy','sikishi'].includes(card.category)?Number(state.ownedCount??(state.owned?1:0)):Number(state.unopenedCount??0)+Number(state.openedCount??(state.owned?1:0));
+const countFor=(card,state={})=>['gummy','sikishi','clearcard'].includes(card.category)?Number(state.ownedCount??(state.owned?1:0)):Number(state.unopenedCount??0)+Number(state.openedCount??(state.owned?1:0));
 export default function App(){
  const[category,setCategory]=useState('wafer');const[states,setStates]=useState({});const[filters,setFilters]=useState(initialFilters);const[screen,setScreen]=useState('list');const[selected,setSelected]=useState(null);const[cardPage,setCardPage]=useState(0);const[releasePage,setReleasePage]=useState(0);
  useEffect(()=>{getAllCardStates().then(rows=>setStates(Object.fromEntries(rows.map(x=>[x.cardId,x]))))},[]);
