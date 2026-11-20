@@ -18127,7 +18127,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "キュアメロディ",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610340.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801997.jpg.webp"
   },
   {
     "id": "clearcard-12-no-04",
@@ -18137,7 +18137,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "キュアリズム",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610341.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801998.jpg.webp"
   },
   {
     "id": "clearcard-12-no-05",
@@ -18147,7 +18147,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "キュアメロディ",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610342.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5801999.jpg.webp"
   },
   {
     "id": "clearcard-12-no-06",
@@ -18157,7 +18157,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "キュアリズム",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610343.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5802000.jpg.webp"
   },
   {
     "id": "clearcard-12-no-07",
@@ -18167,7 +18167,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "北条響",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610344.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5802001.jpg.webp"
   },
   {
     "id": "clearcard-12-no-08",
@@ -18177,7 +18177,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "南野奏",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610345.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610340.jpg.webp"
   },
   {
     "id": "clearcard-12-no-09",
@@ -18187,7 +18187,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "北条響",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610346.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610341.jpg.webp"
   },
   {
     "id": "clearcard-12-no-10",
@@ -18197,7 +18197,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "南野奏",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610347.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610342.jpg.webp"
   },
   {
     "id": "clearcard-12-no-11",
@@ -18207,7 +18207,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "北条響",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610348.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5802002.jpg.webp"
   },
   {
     "id": "clearcard-12-no-12",
@@ -18217,7 +18217,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "南野奏",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610349.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5802003.jpg.webp"
   },
   {
     "id": "clearcard-12-no-13",
@@ -18227,7 +18227,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "ハミィ",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610350.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5802004.jpg.webp"
   },
   {
     "id": "clearcard-12-no-14",
@@ -18237,7 +18237,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "キュアメロディ＆ハミィ",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610351.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610343.jpg.webp"
   },
   {
     "id": "clearcard-12-no-15",
@@ -18247,7 +18247,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "キュアリズム＆ハミィ",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610352.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610344.jpg.webp"
   },
   {
     "id": "clearcard-12-no-16",
@@ -18257,7 +18257,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "キュアメロディ＆キュアリズム",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610353.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610345.jpg.webp"
   },
   {
     "id": "clearcard-12-no-17",
@@ -18267,7 +18267,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "キュアメロディ＆キュアリズム",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610354.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610346.jpg.webp"
   },
   {
     "id": "clearcard-12-no-18",
@@ -18277,7 +18277,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "北条響＆南野奏",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610355.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5802005.jpg.webp"
   },
   {
     "id": "clearcard-12-no-19",
@@ -18287,7 +18287,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "北条響＆南野奏",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610356.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g5802006.jpg.webp"
   },
   {
     "id": "clearcard-12-no-20",
@@ -18297,7 +18297,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "北条響＆南野奏",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610357.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610347.jpg.webp"
   },
   {
     "id": "clearcard-12-no-21",
@@ -18307,7 +18307,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "キュアメロディ",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610358.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610348.jpg.webp"
   },
   {
     "id": "clearcard-12-no-22",
@@ -18317,7 +18317,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "キュアリズム",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610359.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610349.jpg.webp"
   },
   {
     "id": "clearcard-12-no-23",
@@ -18327,7 +18327,7 @@ export const CARD_MASTER = [
     "rarity": "なし",
     "name": "スイートプリキュア♪",
     "series": "スイートプリキュア♪",
-    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610360.jpg.webp"
+    "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/g8610350.jpg.webp"
   },
   {
     "id": "clearcard-12-no-24",
